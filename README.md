@@ -1,3 +1,3 @@
-# SummerInternship
+# pathways_internship
 
-This repository is for tracking my summer internship project. 
+My name is Antonio Banda, I am attending the University of Texas at Austin and I am in the Class of 2019. This repository contains an initial skeleton for the python port of the Microsoft GVFS Project. I worked on this project as part of my Pathways project in the summer of 2017. The Pathways project was a technology boot camp and internship experience were I learned to use tools and technologies like git, Visual Studio, C++, python, and build real applicatios using these tools and technologies. The Pathways Project was hosted by Phoenix Arising under the leadership of Zaitrarrio Collier (LinkedIn: https://www.linkedin.com/in/zaitrarrio). 
